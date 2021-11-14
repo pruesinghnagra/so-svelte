@@ -1,5 +1,5 @@
 # Practise Template with Svelte, Parcel and TypeScript
-- Using Svelte with with Parcel. Will also use Tailwind :)
+- Using Svelte with Rollup. Will also use Tailwind :)
 
 ### Plan
 - Make this a boilerplate 
